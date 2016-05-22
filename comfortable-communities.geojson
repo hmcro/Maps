@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Administrator.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.097149611,
+          51.528544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Blank.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098147392,
+          51.531357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Church.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094124079,
+          51.52542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/DataTrends.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094006062,
+          51.525954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/DigitalIdentity.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094912648,
+          51.526271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/FilterBubble.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099332929,
+          51.532298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/JustData.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10021806,
+          51.532198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/LivedEverywhere.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098142028,
+          51.530366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Neighbourhood.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096623898,
+          51.526541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Possibilities.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096237659,
+          51.525226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Pub.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094585419,
+          51.527282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Sensors.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09683311,
+          51.529011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/Seperation.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09544909,
+          51.526862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/SharedAttitude.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093185306,
+          51.524879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/SharedRooms.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09291172,
+          51.522556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/WeLiveInPublic.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092584491,
+          51.520854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/comfortable/WildParties.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092638135,
+          51.523751
+        ]
+      }
+    }
+  ]
+}
