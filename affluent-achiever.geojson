@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/CityVsCity.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099931,
+          51.532045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/ExperienceCollector.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099931,
+          51.532045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/FineDining.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098542,
+          51.531018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/GeneralContribution.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094561,
+          51.525668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/InhabitableArt.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092882,
+          51.523044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/InteriorDesigners.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092158,
+          51.522497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/Investment.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092625,
+          51.523061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/NewInvestments.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09211,
+          51.523181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/Ownership.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094256,
+          51.52485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/Revoked.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090994,
+          51.521172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/TemporaryLocation.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090779,
+          51.522207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/TheAlgorithm.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090946,
+          51.522754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/UnfurnishedHomes.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.090248,
+          51.52229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "audio/affluent/UsingBlankSpace.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09204,
+          51.522777
+        ]
+      }
+    }
+  ]
+}
