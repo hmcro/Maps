@@ -3,7 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "mp3": "cc_1_Hello.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +23,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "mp3": "cc_2_neighbourhood.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +40,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "mp3": "cc_3_Possibilities.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +60,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "",
+        "mp3": "cc_9_Church.mp3"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +74,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "",
+        "mp3": "cc_12_Gates.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,7 +92,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "mp3": "rp_7_Construction.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -69,7 +109,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "mp3": "rp_3_Windows.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,7 +126,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "mp3": "rp_2_hmcro.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -91,7 +143,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "mp3": "cc_23_GoodLuck.mp3",
+        "icon": {
+          "className": "map-point-ready",
+          "iconSize": null
+        }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
