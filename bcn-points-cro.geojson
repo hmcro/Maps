@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_17_bycycles.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2505987882614136,
+          51.506281705512784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_2_please_continue.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25046467781066895,
+          51.50587434954212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_14_left_footpath.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2502608299255371,
+          51.50516313735562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_8_follow_route.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24949908256530764,
+          51.50524661353936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_13_turn_left.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24889826774597168,
+          51.50532341149335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_15_keep_walking.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2490752935409546,
+          51.50590440051686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_20_thankyou.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2505612373352051,
+          51.50663897373528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cro_18_crossroad.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24929523468017578,
+          51.506628956907406
+        ]
+      }
+    }
+  ]
+}
