@@ -9,60 +9,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.25081872940063477,
-          51.50630507828589
+          2.2190237045288086,
+          41.4086050399954
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mp3": "cc_2_neighbourhood.mp3"
+        "mp3": "cc_4_Administrator.mp3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.25020718574523926,
-          51.50584429854758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mp3": "cc_3_Possibilities.mp3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.25052905082702637,
-          51.50533676764604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mp3": "cc_9_Church.mp3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2500784397125244,
-          51.50519652784749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mp3": "cc_12_Gates.mp3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2493274211883545,
-          51.50526998684342
+          2.2181010246276855,
+          41.4090637032982
         ]
       }
     },
@@ -74,8 +35,307 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2489626407623291,
-          51.50556382164291
+          2.2202414274215694,
+          41.40937350036352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_5_Responsibilities.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.217457294464111,
+          41.40905967994996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_6_Access.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2169476747512817,
+          41.408496408738884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_4_Shops.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2170227766036987,
+          41.40884644213734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_8b_WeLiveInPublic.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.216191291809082,
+          41.407977390228574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_14_JustData.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.215644121170044,
+          41.40741008618393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_5_SharingHousemates.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.215391993522644,
+          41.407740008287774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_3_Possibilities.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.215263247489929,
+          41.407293406014475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_7_DigitalIdentity.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2152096033096313,
+          41.407530789587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_2_neighbourhood.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2147053480148315,
+          41.40745836757207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_13_Sometimes.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2143083810806274,
+          41.4073175467564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_11_Seperation.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2133642435073853,
+          41.407277312181584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_10_DataTrends.mp3.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213058471679687,
+          41.40692727032929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_17_AlgoCommunities.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213970422744751,
+          41.405997839708256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_10_NewVersions.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213691473007202,
+          41.40783254711362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_12_PeopleDisappear.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21250057220459,
+          41.40739801583128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_21_Follow.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2117549180984497,
+          41.4064565214166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_23_Nearby.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2111326456069946,
+          41.40598979263187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_8_Blank.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2102850675582886,
+          41.405305787493845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_25_Market.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.210349440574646,
+          41.40623120449084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_9_Church.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2127151489257812,
+          41.40613463985488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_12_Gates.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2135788202285767,
+          41.40549891908586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_13_FilterBubble.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2140026092529297,
+          41.40518507995733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "cc_15_SharedAttitude.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2149360179901123,
+          41.40449301908638
         ]
       }
     },
@@ -87,21 +347,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.24915575981140134,
-          51.50613145168522
+          2.214404940605163,
+          41.404569468033095
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "mp3": "rp_2_hmcro.mp3"
+        "mp3": "cc_16_SharedRooms.mp3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.24955272674560544,
-          51.50660558430045
+          2.2157782316207886,
+          41.40511265532778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_9_Windows.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.215869426727295,
+          41.40548282480845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mp3": "rp_19_Charity.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2168511152267456,
+          41.4058811570027
         ]
       }
     },
@@ -113,8 +399,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.25042176246643066,
-          51.50663229585028
+          2.2184818983078003,
+          41.40755090679904
         ]
       }
     }
